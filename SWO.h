@@ -30,6 +30,8 @@
 #ifndef MBED_SWO_H
 #define MBED_SWO_H
 
+#include "platform/Stream.h"
+
 //
 // This is the Class implementation
 //
